@@ -17,7 +17,7 @@
 </ol>
 <p>Models used: Support Vector Machine,Decision Tree and Random Forest</p>
 <p>All the models were trained with and without Bagging Technique</p>
-<p><b>Result: SVM with bagging technique </b></p>
+<p><b>Hence Decision Tree with bagging technique gives the highest accuracy of 86.5%</b></p>
 
 
 
